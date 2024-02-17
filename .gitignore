@@ -1,0 +1,5 @@
+.DS_Store
+NB_NLPWorks/data
+*.txt
+*.csv
+*.pkl
